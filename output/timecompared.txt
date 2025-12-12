@@ -1,0 +1,4 @@
+Framework  Time(Seconds)
+     NLTK       0.149455
+ TextBlob       0.191729
+    SpaCy       7.673064

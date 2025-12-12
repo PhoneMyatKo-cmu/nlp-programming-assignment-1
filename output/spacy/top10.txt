@@ -1,0 +1,10 @@
+said:462
+alice:385
+nt:216
+little:128
+know:86
+like:85
+went:83
+s:75
+thought:74
+time:68
